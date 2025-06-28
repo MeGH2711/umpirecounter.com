@@ -18,7 +18,7 @@ A simple, responsive, and visually polished web-based counter tool for cricket u
 
 ## 🚀 Demo
 
-You can try it live (if hosted) or open `[index.html](https://megh2711.github.io/umpirecounter.com/)` in any modern browser.
+You can try it live or open `https://megh2711.github.io/umpirecounter.com/` in any modern browser.
 
 ---
 
